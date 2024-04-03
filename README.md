@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Nuxt-00DC82.svg?style=flat-square&logo=nuxtdotjs&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=React&style=flat&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-Next-000000.svg?logo=nextdotjs&style=flat&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/-Go-3178C6.svg?logo=go&style=flat&logoColor=white"></a>&nbsp
 </p>
 
 
