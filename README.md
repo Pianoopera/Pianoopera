@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=React&style=flat&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-Next-000000.svg?logo=nextdotjs&style=flat&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-Go-3178C6.svg?logo=go&style=flat&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/-Lit-3178C6.svg?logo=lit&style=flat&logoColor=white"></a>&nbsp
 </p>
 
 
