@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-kotlin-7F52FF.svg?logo=kotlin&style=flat&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=PHP&style=flat&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=Laravel&style=flat&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=flat&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-.NET-512BD4.svg?logo=dotnet&style=flat&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
