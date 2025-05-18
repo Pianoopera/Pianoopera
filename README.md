@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/-Lit-3178C6.svg?logo=lit&style=flat&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-Rust-000000.svg?logo=Rust&style=flat&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-elixir-4B275F.svg?logo=elixir&style=flat&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/-python-3670A0.svg?logo=python&logoColor=ffdd54"></a>&nbsp
 </div>
 
 
